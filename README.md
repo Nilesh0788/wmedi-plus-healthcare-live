@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # 🏥 WMedi Plus Healthcare Platform - PROJECT INDEX
 
-## 📍 THIS IS YOUR COMPLETE HEALTHCARE PLATFORM
+## 📍 THIS IS MY COMPLETE HEALTHCARE PLATFORM
 
-Welcome! You now have a fully built, professional healthcare platform. This file helps you navigate everything.
+Welcome! I now have a fully built, professional healthcare platform. This file helps you navigate everything.
 
 ---
 
