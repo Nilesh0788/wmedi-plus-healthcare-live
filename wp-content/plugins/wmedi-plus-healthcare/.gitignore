@@ -1,0 +1,18 @@
+# Git ignore for WMedi Plus
+.DS_Store
+.env
+.env.local
+.env.*.local
+node_modules/
+npm-debug.log
+yarn-error.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.tmp/
+dist/
+build/
+coverage/
+.phpunit.result.cache

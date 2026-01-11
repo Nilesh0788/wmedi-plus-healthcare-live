@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OS Files
 .DS_Store
 Thumbs.db
@@ -33,7 +34,6 @@ wp-config-docker.php
 .env
 .env.local
 .env.*.local
-
 # Build
 dist/
 build/
@@ -71,3 +71,11 @@ Templates/
 *.ini
 *.dat
 NTUSER*
+=======
+wp-config.php
+# OS Files
+wp-content/uploads/
+node_modules/
+.env
+
+>>>>>>> fddb2b3bf3a6ecc29f18a223d2dce60760022d9a

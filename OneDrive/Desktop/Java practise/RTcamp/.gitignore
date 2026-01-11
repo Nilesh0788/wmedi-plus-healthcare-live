@@ -1,0 +1,73 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Dependencies
+/php/
+/wordpress/
+
+# WordPress
+wp-config.php
+wp-config-docker.php
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/*/
+/wp-content/themes/*/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+build/
+*.o
+
+# Keep only WMedi-plus-Website
+!/WMedi-plus-Website/
+/WMedi-plus-Website/wp-admin/
+/WMedi-plus-Website/wp-includes/
+/WMedi-plus-Website/wp-content/plugins/*
+!/WMedi-plus-Website/wp-content/plugins/wmedi-plus-healthcare/
+/WMedi-plus-Website/wp-content/themes/*
+!/WMedi-plus-Website/wp-content/themes/custom-theme/
+
+# Except wp-content subdirectories we need
+!/WMedi-plus-Website/wp-content/
+!/WMedi-plus-Website/wp-content/plugins/
+!/WMedi-plus-Website/wp-content/themes/
+
+# User folder stuff
+Application Data/
+Cookies/
+Documents/
+My Documents/
+Desktop/
+Downloads/
+Music/
+Pictures/
+Videos/
+Contacts/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+*.ini
+*.dat
+NTUSER*
